@@ -186,7 +186,11 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
+<<<<<<< HEAD
    Copyright 2020 IBM Developer Skills Network
+=======
+   Copyright [yyyy] [name of copyright owner]
+>>>>>>> 7b46c741044dcab01ba935bff88bb96cd6870d62
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
